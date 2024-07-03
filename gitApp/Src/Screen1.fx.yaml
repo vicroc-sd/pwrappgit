@@ -5,8 +5,8 @@ Screen1 As screen:
     Rectangle2 As rectangle:
         BorderColor: =App.Theme.Colors.Darker40
         Fill: =App.Theme.Colors.Primary
-        X: =552
-        Y: =212
+        X: =700
+        Y: =256
         ZIndex: =1
 
     Button1 As button:
